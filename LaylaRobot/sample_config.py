@@ -18,9 +18,9 @@ class Config(object):
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "awoo"
     TOKEN = "BOT_TOKEN"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1089434386  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "GarimaQueen"
-    SUPPORT_CHAT = '@tinder_Queens'  #Your own group for support, do not add the @
+    OWNER_ID = 1676629806  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "D3_krish"
+    SUPPORT_CHAT = '@MISS_KRISTINA_SUPPORT'  #Your own group for support, do not add the @
     JOIN_LOGGER = -1001326283780  #Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = -1001326283780  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
@@ -32,7 +32,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "SpamWatchSupport"
+    SPAMWATCH_SUPPORT_CHAT = "@MISS_KRISTINA_SUPPORT"
 
     #OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
