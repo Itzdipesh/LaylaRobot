@@ -7,23 +7,24 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 ## How to setup/deploy.
 
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fxdipesh%2FLaylaRobot&template=https%3A%2F%2Fgithub.com%2Fxdipesh%2FLaylaRobot)
 
-
-<details>
-  <summary>Steps to deploy on Heroku !! </summary>
-
-```
-Fill in all the details, Deploy!
-Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
-Turn on worker dyno (Don't worry It's free :D) & Webhook
-Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
-```
 
 </details>  
 <details>
   <summary>Steps to self Host!! </summary>
 
-  ## Setting up the bot (Read this before trying to use!):
+ 
+<a href="https://telegram.me/MISS_KRISTINA_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+<a href="https://t.me/MISS_KRISTINA_LOGS"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+
+
+
+
+ ## Setting up the bot (Read this before trying to use!):
+
+
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older Python versions!
 This is because markdown parsing is done by iterating through a dict, which is ordered by default in 3.6.
 
@@ -188,3 +189,5 @@ For starters click on this button
 
 ## Credits
 The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+[D3_krish](http://t.me/D3_krish)
+
