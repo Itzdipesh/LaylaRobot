@@ -59,7 +59,7 @@ i'm a group manager bot. Maintained by @DIPESH_XD 💖
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{𝙈𝙄𝙎𝙎 𝙆𝙍𝙄𝙎𝙏𝙄𝙉𝘼}*.
+Hey there! My name is *{}*.
 
 *Main* commands available:
  • /help: PM's you this message.
