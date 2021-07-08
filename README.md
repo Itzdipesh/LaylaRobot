@@ -190,5 +190,5 @@ For starters click on this button
 ## Credits
 
 
-[D3_krish](http://t.me/D3_krish)
+[Dipesh](http://t.me/DIPESH_XD)
 
